@@ -1,2 +1,5 @@
 # Byte-compiled
 __pychache__/
+
+# References
+references/*
