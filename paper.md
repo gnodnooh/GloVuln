@@ -1,5 +1,12 @@
-# Introduction
+---
+Title: Development of global vulnerability (GloVuln) to natural disaster
+Author: Donghoon Lee
+Date: 09-24-20192
+---
 
+# Development of Global Vulnerability (GloVuln) to natural disaster
+
+## Introduction
 
 There are a few vulnerability assessments to natural hazard has been done in global scale. 
 For example, INFORM (UNISDR)
@@ -11,5 +18,18 @@ In local scale, however, specific vulnerability data (e.g., high resolution) is 
 
 Furthermore, recent natural disaster (e.g., climate, hydrologic, earthquake, etc.) risk forecasts systems or assessments have been operated in high resolusion and large-scale (e.g., continental and global)
 
+## Data
+Extensive data investigation has been done.\
+We obtained cencus data from [Integrated Public Use Microdata Series (IPUMS) - International](https://international.ipums.org/international/), 
+
+
+
+## Methods
+
+
+
+
+
+##
 
 
