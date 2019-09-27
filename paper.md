@@ -1,7 +1,7 @@
 ---
 Title: Development of global vulnerability (GloVuln) to natural disaster
 Author: Donghoon Lee
-Date: 09-24-20192
+Date: 09-24-2019
 ---
 
 # Development of Global Vulnerability (GloVuln) to natural disaster
@@ -30,6 +30,6 @@ We obtained cencus data from [Integrated Public Use Microdata Series (IPUMS) - I
 
 
 
-##
+## Global Vulnerability 
 
 
