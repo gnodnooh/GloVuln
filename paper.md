@@ -22,10 +22,12 @@ Furthermore, recent natural disaster (e.g., climate, hydrologic, earthquake, etc
 Extensive data investigation has been done.\
 We obtained cencus data from [Integrated Public Use Microdata Series (IPUMS) - International](https://international.ipums.org/international/), 
 
-
+Current IPUMS data covers XX countries which is XX% of global land areas.
 
 ## Methods
 
+
+1. We need to look at the list of variables of each country so that we can choose the overlapped variables to make an universal vulnerability.
 
 
 
